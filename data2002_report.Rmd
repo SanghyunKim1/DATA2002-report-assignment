@@ -71,7 +71,7 @@ library(grid)
 library(gridExtra)
 
 # Data Cleaning
-data_path = "/Users/sanghyunkim/Desktop/University of Sydney/2021 Semester 2/DATA2002 Data Analytics Learning from Data/Assignment/DATA2002_Report/DATA2x02 survey (Responses) - Form responses 1.csv"
+data_path = "/Users/sanghyunkim/Desktop/Data Science Project/Other Analysis/University Projects/DATA2002-report-assignment/data/DATA2x02 survey (Responses) - Form responses 1.csv"
 survey = readr::read_csv(data_path)
 
 # 1. rename column names
