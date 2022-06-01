@@ -1,4 +1,4 @@
-# DATA2002-report-assignment
+# DATA2002 Report Assignment
 This is a DATA2002 report assignment created by Sanghyun Kim (SID 500666580)
 
 # Report
